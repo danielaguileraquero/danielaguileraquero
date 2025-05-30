@@ -39,15 +39,18 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 - 🌍 **Córdoba, España**
 <p align="center">
   <a href="https://www.linkedin.com/in/danielaguileraquero/" target="_blank">
-    <img src="https://img.shields.io/badge/Perfil--LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?label=Perfil&message=LinkedIn&color=blue&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://drive.google.com/tu_enlace_cv" target="_blank">
-    <img src="https://img.shields.io/badge/CV--Currículum-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/CV–Currículum-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV">
   </a>
+  &nbsp;&nbsp;
   <a href="https://tudominio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio--Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio–Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 
 
 

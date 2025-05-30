@@ -24,9 +24,9 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 
 ## 💼 Proyectos
 
-• https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.
-• https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.
-• https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.
+- https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.
+- https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.
+- https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.
 
 *(Proyectos reales próximamente...)*
 

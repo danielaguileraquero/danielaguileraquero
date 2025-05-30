@@ -7,9 +7,9 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 
 ## 👨‍💻 Sobre mí
 
-• 🎓 Formación en Desarrollo de Aplicaciones Web (FP DAW).
-• 💼 Experiencia práctica en empresa como desarrollador front-end y fullstack.
-• 🌐 Apasionado por el desarrollo de sitios web optimizados y enfocados al usuario final.
+- 🎓 Formación en Desarrollo de Aplicaciones Web (FP DAW).
+- 💼 Experiencia práctica en empresa como desarrollador front-end y fullstack.
+- 🌐 Apasionado por el desarrollo de sitios web optimizados y enfocados al usuario final.
 
 ---
 

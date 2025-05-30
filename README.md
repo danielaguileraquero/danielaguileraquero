@@ -35,10 +35,10 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 - 💼 **En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.**
 - 📧 **Siéntete libre de contactarme a este correo --> aguileraquero@gmail.com si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web.**
 - 🔗 **Puedes acceder a mi perfil de Linkedin desde este enlace --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/) para ver más detalles sobre mi trayectoria y experiencia profesional.**
-- 📄 **Puedes descargar mi Currículum para consultar más información sobre mi perfil en este enlace --> .**
-- 🌐 **También puedes visitar mi portfolio web, donde muestro mis proyectos y habilidades con más detalle.**
+- 📄 **Puedes descargar mi Currículum desde este enlace --> [📄 Ver Currículum](https://drive.google.com/your-link) para consultar más información sobre mi perfil.**
+- 🌐 **También puedes visitar mi portfolio web, donde muestro mis proyectos y habilidades con más detalle --> [🌐 Ver Portfolio Web](https://tusitio.com).**
 - 🌍 **Córdoba, España**
 ---
 
-> ¡Gracias por visitar mi perfil!  
+> ¡Gracias por visitar mi perfil! 🙌
 > Siempre listo para nuevos retos y seguir aprendiendo. 🚀

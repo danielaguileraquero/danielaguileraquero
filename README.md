@@ -38,7 +38,7 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 - 🌐 **También puedes visitar mi portfolio web, donde muestro mis proyectos y habilidades con más detalle.**
 - 🌍 **Córdoba, España**
 <br>
-<p align="center"> <a href="https://www.linkedin.com/in/danielaguileraquero/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://drive.google.com/tu_enlace_cv" target="_blank"> <img src="https://img.shields.io/badge/CV-Currículum-informational?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"> </a> <a href="https://tudominio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Web-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </p> <p align="center">📍 Córdoba, España</p>
+<p align="center"> <a href="https://www.linkedin.com/in/danielaguileraquero/" target="_blank"> <img src="https://img.shields.io/badge/Perfil-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://drive.google.com/tu_enlace_cv" target="_blank"> <img src="https://img.shields.io/badge/CV-Currículum-informational?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"> </a> <a href="https://tudominio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Web-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </p> <p align="center">📍 Córdoba, España</p>
 ---
 > ¡Gracias por visitar mi perfil! 🙌
 > Siempre listo para nuevos retos y seguir aprendiendo. 🚀

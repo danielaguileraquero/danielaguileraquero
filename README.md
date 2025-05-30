@@ -23,6 +23,7 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 
 ## 💼 Proyectos
 
+- 🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales te muestro algunos de ellos:**
 - **https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.**
 - **https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.**
 - **https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.**
@@ -30,7 +31,6 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 
 ## 🚀 Contáctame
 
-- 🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales.**
 - 💼 **En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.**
 - 📧 **Siéntete libre de contactarme a este correo --> aguileraquero@gmail.com si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web.**
 - 🔗 **Puedes acceder a mi perfil de Linkedin para ver más detalles sobre mi trayectoria y experiencia profesional.**
@@ -51,11 +51,6 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
     <img src="https://img.shields.io/badge/Portfolio–Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-
-
-
-
 ---
 > ¡Gracias por visitar mi perfil! 🙌
 > Siempre listo para nuevos retos y seguir aprendiendo. 🚀

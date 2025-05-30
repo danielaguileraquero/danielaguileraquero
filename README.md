@@ -33,21 +33,11 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 - 🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales.**
 - 💼 **En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.**
 - 📧 **Siéntete libre de contactarme a este correo --> aguileraquero@gmail.com si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web.**
-- 🔗 **Puedes acceder a mi perfil de Linkedin desde este enlace --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/) para ver más detalles sobre mi trayectoria y experiencia profesional.**
-- 📄 **Puedes descargar mi Currículum desde este enlace --> [![Currículum](https://img.shields.io/badge/Currículum-blue?style=flat&logo=adobeacrobatreader)](https://drive.google.com/your-link) para consultar más información sobre mi perfil.**
-- 🌐 **También puedes visitar mi portfolio web --> [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=web)](https://tusitio.com) donde muestro mis proyectos y habilidades con más detalle.**
+- 🔗 **Puedes acceder a mi perfil de Linkedin para ver más detalles sobre mi trayectoria y experiencia profesional.**
+- 📄 **Puedes descargar mi Currículum para consultar más información sobre mi perfil.**
+- 🌐 **También puedes visitar mi portfolio web, donde muestro mis proyectos y habilidades con más detalle.**
 - 🌍 **Córdoba, España**
----
-🚀 Contáctame
-🌱 Siempre estoy ampliando mis conocimientos con proyectos personales.
-
-💼 En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.
-
-✉️ Si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web, puedes escribirme:
-📩 aguileraquero@gmail.com
-
 <br>
-🔗 Enlaces importantes
 <p align="center"> <a href="https://www.linkedin.com/in/danielaguileraquero/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://drive.google.com/tu_enlace_cv" target="_blank"> <img src="https://img.shields.io/badge/CV-Currículum-informational?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"> </a> <a href="https://tudominio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Web-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </p> <p align="center">📍 Córdoba, España</p>
 ---
 > ¡Gracias por visitar mi perfil! 🙌

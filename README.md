@@ -36,7 +36,7 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 
 - 🌱 Siempre estoy ampliando mis conocimientos con proyectos personales.
 - 💼 En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.
-- 📧 Siéntete libre de contactarme aguileraquero@gmail.com
+- 📧 **Siéntete libre de contactarme a este correo --> aguileraquero@gmail.com si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web.**
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/)
 - 🌍 Córdoba, España
 ---

@@ -7,9 +7,9 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Formación en Desarrollo de Aplicaciones Web (FP DAW).
-- 💼 Experiencia práctica en empresa como desarrollador front-end y fullstack.
-- 🌐 Apasionado por el desarrollo de sitios web optimizados y enfocados al usuario final.
+- 🎓 **Formación en Desarrollo de Aplicaciones Web (FP DAW).**
+- 💼 **Experiencia práctica en empresa como desarrollador front-end y fullstack.**
+- 🌐 **Apasionado por el desarrollo de sitios web optimizados y enfocados al usuario final.**
 
 ---
 
@@ -24,21 +24,20 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a s
 
 ## 💼 Proyectos
 
-- https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.
-- https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.
-- https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.
-
-*(Proyectos reales próximamente...)*
-
+- **https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.**
+- **https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.**
+- **https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.**
 ---
 
 ## 🚀 Contáctame
 
-- 🌱 Siempre estoy ampliando mis conocimientos con proyectos personales.
-- 💼 En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.
+- 🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales.**
+- 💼 **En búsqueda activa de nuevas oportunidades donde seguir creciendo como desarrollador.**
 - 📧 **Siéntete libre de contactarme a este correo --> aguileraquero@gmail.com si quieres colaborar en un proyecto, contar conmigo o simplemente charlar sobre desarrollo web.**
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/)
-- 🌍 Córdoba, España
+- 🔗 **Puedes acceder a mi perfil de Linkedin desde este enlace --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/) para ver más detalles sobre mi trayectoria y experiencia profesional.**
+- 📄 **Puedes descargar mi Currículum para consultar más información sobre mi perfil en este enlace --> .**
+- 🌐 **También puedes visitar mi portfolio web, donde muestro mis proyectos y habilidades con más detalle.**
+- 🌍 **Córdoba, España**
 ---
 
 > ¡Gracias por visitar mi perfil!  

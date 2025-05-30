@@ -23,7 +23,7 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 
 ## 💼 Proyectos
 
-- 🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales te muestro algunos de ellos:**
+🌱 **Siempre estoy ampliando mis conocimientos con proyectos personales te muestro algunos de ellos:**
 - **https://github.com/Hordtail/PokedexHordtail : Website made with HTML, CSS, and JavaScript for a Pokedex linked to an API.**
 - **https://github.com/Hordtail/puodex: Inventory management website hosted on AWS, using DevOps and AWS tools, including containers, infrastructure, CI/CD deployment, and monitoring.**
 - **https://github.com/Hordtail/simple-worker: luengo Simple Worker is a lightweight distributed job processing system.**
@@ -52,6 +52,7 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
   </a>
 </p>
 ---
-> ¡Gracias por visitar mi perfil! 🙌
-> Siempre listo para nuevos retos y seguir aprendiendo. 🚀
+
+¡Gracias por visitar mi perfil! 🙌
+Siempre listo para nuevos retos y seguir aprendiendo. 🚀
 ---

@@ -51,8 +51,8 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
     <img src="https://img.shields.io/badge/Portfolio–Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
----
 
+---
 ¡Gracias por visitar mi perfil! 🙌
 Siempre listo para nuevos retos y seguir aprendiendo. 🚀
 ---

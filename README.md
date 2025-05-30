@@ -53,6 +53,6 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión po
 </p>
 
 ---
-¡Gracias por visitar mi perfil! 🙌
+¡Gracias por visitar mi perfil! 🙌<br>
 Siempre listo para nuevos retos y seguir aprendiendo. 🚀
 ---

@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Aguilera Quero
 
-<!--
-**danielaguileraquero/danielaguileraquero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desarrollador Web Junior con formación en Desarrollo de Aplicaciones Web (FP DAW).  
+💼 Experiencia práctica en empresas como desarrollador front-end y fullstack.  
+🌐 Apasionado por la creación de sitios web accesibles, optimizados y bien estructurados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo
+
+- **Lenguajes**: HTML, CSS, JavaScript, Python, PHP, SQL
+- **Frameworks / Librerías**: React, React Native (básico), Angular (básico)
+- **CMS / ERP**: WordPress, Odoo
+- **Otros**: Git, Docker, APIs REST, diseño responsive, metodologías ágiles
+
+---
+
+### 📍 Actualmente
+
+🛠️ Estoy ampliando mis conocimientos con proyectos personales  
+💡 Buscando nuevas oportunidades donde seguir creciendo como desarrollador
+
+---
+
+### 📫 Puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielaguileraquero/)

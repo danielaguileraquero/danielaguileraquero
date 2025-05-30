@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Daniel Aguilera Quero
 
-Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión por la creación de soluciones digitales accesibles, modernas y bien estructuradas.  
-Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a seguir creciendo como profesional.
+Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con pasión por la creación de soluciones digitales accesibles, modernas y bien estructuradas. Me encanta aprender nuevas tecnologías y trabajar en proyectos que me reten a seguir creciendo como profesional.
 
 ---
 
